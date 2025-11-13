@@ -1,0 +1,9 @@
+
+streamlit
+mysql-connector-python
+pandas
+plotly
+matplotlib
+openpyxl
+xlsxwriter
+reportlab
